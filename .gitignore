@@ -36,6 +36,8 @@
 *.htm
 *.html
 /ipch
-/Debug
-/Release
+*/Debug
+*/Release
 /html
+/packages
+/.vs
